@@ -1,0 +1,13 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "engine": {
+    "node": "16.3.0"
+  },
+  "main": "index.js",
+  "author": "Justin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/truesellj/hangman.git"
+  }
+}
